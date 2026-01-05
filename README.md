@@ -13,7 +13,7 @@ This portfolio highlights my key projects, grouped by theme for clarity.
 - **Smart Dustbin**  
   IoT-enabled waste management system with automatic alerts.  
   *Impact:* Improved urban cleanliness and efficiency.  
-  *Tech:* Arduino, PHP, MySQL.
+  *Tech:* Arduino, Laravel, MySQL.
 
 - **Smart Alerts: Disease Prediction for Farmers**  
   AI-powered system predicting crop diseases and sending alerts.  
